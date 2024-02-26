@@ -1,5 +1,6 @@
 <div align="center">
-<h1 align="center">Hi world!! I'm Te, Chule Te<a href="https://www.linkedin.com/in/jes%C3%BAs-tejedo-90878a291/">and you can check </a></h1>
+<h1 align="center">Hi world!! I'm Te, Chule Te </a></h1>
+<h1 <a href="https://www.linkedin.com/in/jes%C3%BAs-tejedo-90878a291/">My LinkdIn profile </a></h1>
 </div>
 <img src="https://w.forfun.com/fetch/1c/1cfee1a0e97819b4285dd95edbae032c.jpeg">
 
@@ -13,7 +14,7 @@ My experience as an Economist complements my analytical approach by providing an
 
 I am committed to excellence in data analytics and am constantly looking for new ways to apply my skills to make a positive impact on the world.
 
---
+
 # Sobre mí:
 
 Soy un Data Scientist y Economista apasionado por desentrañar los secretos ocultos en los datos y transformarlos en conocimiento accionable.
