@@ -11,7 +11,7 @@ As a Data Scientist, I consider myself a data detective, adept at exploring vast
 
 My experience as an Economist complements my analytical approach by providing an in-depth understanding of the economic and financial contexts in which the data is found.
 
-I am committed to excellence in data analytics and am constantly looking for new ways to apply my skills to make a positive impact on the world.
+I´m committed to excellence in data analytics and am constantly looking for new ways to apply my skills to make a positive impact on the world.
 
 
 # Sobre mí:
