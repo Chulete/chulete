@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi world!! I'm Te, Chule Te </a></h1>
-<h1 <a href="https://www.linkedin.com/in/jes%C3%BAs-tejedo-90878a291/">My LinkdIn profile </a></h1>
+<h1 <a href="https://www.linkedin.com/in/jes%C3%BAs-tejedo-90878a291/">My LinkdIn profile</a></h1>
 </div>
 <img src="https://w.forfun.com/fetch/1c/1cfee1a0e97819b4285dd95edbae032c.jpeg">
 
